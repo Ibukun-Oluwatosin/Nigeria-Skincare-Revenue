@@ -34,4 +34,4 @@ The data used for this analysis is contained in the `data/skincare_sales_data.cs
 
 1. **Clone the repository**:
    ```sh
-   git clone (https://ibukun-oluwatosin.github.io/skincare-sales-data/)
+   git clone ([https://ibukun-oluwatosin.github.io/skincare-sales-data/](https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue))
