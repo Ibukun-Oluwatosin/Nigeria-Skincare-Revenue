@@ -1,4 +1,4 @@
-# Nigeria-Skincare-Revenue
+# Nigeria Skincare Revenue
 
 ## Sales Data Dashboard
 
