@@ -21,7 +21,7 @@ Newly acquired customers brought in the highest revenue for both years.
 
 ## Data Source
 
-The data used for this analysis is contained in the `https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue/blob/main/skincare_sales_data_csv.csv` file. It includes various attributes such as date of sale, product category, sales channel, and sales amount.
+The data used for this analysis is contained in the [gourmet-bistro-sales.cvs](https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue/blob/main/skincare_sales_data_csv.csv)` file. It includes various attributes such as date of sale, product category, sales channel, and sales amount.
 
 ## Tools and Technologies
 
